@@ -31,7 +31,7 @@ cd amazon-bedrock-ai-agent
 | Notebook | Using |
 | :--- | :--- |
 | **[Langgraph](./langgraph/langgraph.ipynb)** | **Google Colab**. |
-| **[CrewAI](./crewai/crewai.py)** | **Google Colab**. |
+| **[CrewAI](./crewai/crewai.ipynb)** | **Google Colab**. |
 
 3. If notebook have Python environment that store such as `load_dotenv("....txt")`, create Python environment using python-dotenv, you can see this [link.](https://pypi.org/project/python-dotenv/) then write your AWS key in a Notepad file, then save the file with the name `....txt` (e.g. `env.txt`).
 
