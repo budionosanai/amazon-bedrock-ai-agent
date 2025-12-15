@@ -28,7 +28,7 @@ cd amazon-bedrock-ai-agent
 
 2. Open, run and following this notebooks :
 
-| File / Notebook | Using |
+| Notebook | Using |
 | :--- | :--- |
 | **[Langgraph](./langgraph/langgraph.ipynb)** | **Google Colab**. |
 | **[CrewAI](./crewai/crewai.py)** | **Google Colab**. |
